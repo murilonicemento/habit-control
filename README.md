@@ -1,5 +1,5 @@
 # Habit Control
-Projeto criado através da plataforma Rocketseat no evento NLW - Trilha Explorer
+Projeto criado através da plataforma Rocketseat no evento NLW Setup- Trilha Explorer
 
 ## Deploy da aplicação
 https://habit-control-beta.vercel.app/
