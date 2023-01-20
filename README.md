@@ -2,7 +2,7 @@
 Projeto criado através da plataforma Rocketseat no evento NLW - Trilha Explorer
 
 ## Deploy da aplicação
-https://game-schedule-mu.vercel.app/
+
 
 ## Tecnologias utilizadas
 + HTML5
